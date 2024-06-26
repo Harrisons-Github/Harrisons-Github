@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Harrisons-Github.
+- 👀 I’m interested in learning everything about computers and programming. I have a passion for exploring anything I can when it comes to the internet.
+- 🌱 I’m currently learning Rust through "the book" and vidoes online.
+- 💞️ I’m looking to collaborate on any interesting projects involving cybersecurity or data analysis through C, C++, or Rust.
